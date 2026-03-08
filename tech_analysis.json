@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-03-08T01:03:27.332378",
+  "coins": {
+    "BTC": {
+      "price": 67368.375,
+      "rsi": 54.19,
+      "signal": "\u26aa NEUTRAL"
+    },
+    "ETH": {
+      "price": 1972.165,
+      "rsi": 56.92,
+      "signal": "\u26aa NEUTRAL"
+    },
+    "SOL": {
+      "price": 83.39,
+      "rsi": 56.54,
+      "signal": "\u26aa NEUTRAL"
+    }
+  }
+}

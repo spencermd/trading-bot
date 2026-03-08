@@ -1,0 +1,60 @@
+{
+  "alerts": [
+    {
+      "symbol": "USDT",
+      "name": "Tether",
+      "price": 0.999966,
+      "volume_24h": 39101656746,
+      "market_cap": 183964398367,
+      "price_change_24h": -0.00122,
+      "avg_volume": 1714178494.3061225,
+      "spike_ratio": 22.810726465115202,
+      "timestamp": "2026-03-08T00:49:37.941447"
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price": 67285,
+      "volume_24h": 24603772418,
+      "market_cap": 1345888836862,
+      "price_change_24h": -1.34378,
+      "avg_volume": 1714178494.3061225,
+      "spike_ratio": 14.35309829152844,
+      "timestamp": "2026-03-08T00:49:37.941439"
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "price": 1969.93,
+      "volume_24h": 9640278830,
+      "market_cap": 237772694199,
+      "price_change_24h": -0.58405,
+      "avg_volume": 1714178494.3061225,
+      "spike_ratio": 5.623847727655842,
+      "timestamp": "2026-03-08T00:49:37.941445"
+    },
+    {
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "price": 3.24888530424439e-06,
+      "volume_24h": 48933270288609.7,
+      "market_cap": 1344299724.0397453,
+      "change_24h": -4.136437614376599,
+      "avg_volume": 1020779709439.4178,
+      "spike_ratio": 47.937150235365095,
+      "timestamp": "2026-03-08T00:50:53.905668"
+    },
+    {
+      "symbol": "RESOLV",
+      "name": "Resolv",
+      "price": 0.08523,
+      "volume_24h": 4583722.8359115,
+      "market_cap": 32019410,
+      "change_24h": 16.817434210526322,
+      "avg_volume": 2293253.4290498,
+      "spike_ratio": 1.9987859945382254,
+      "timestamp": "2026-03-08T00:54:07.098816"
+    }
+  ],
+  "last_scan": "2026-03-08T00:54:39.986890"
+}

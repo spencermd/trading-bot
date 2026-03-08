@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-08T00:26:00Z",
+  "tokens": {
+    "WIF": {
+      "price": 0.1769,
+      "open_24h": 0.1895,
+      "change_24h": -6.65
+    },
+    "BONK": {
+      "price": 0.000005677,
+      "open_24h": 0.000005872,
+      "change_24h": -3.32
+    },
+    "POPCAT": {
+      "price": 0.049,
+      "open_24h": 0.0511,
+      "change_24h": -4.11
+    },
+    "JUP": {
+      "price": 0.1709,
+      "open_24h": 0.1776,
+      "change_24h": -3.77
+    }
+  },
+  "best_momentum": "BONK",
+  "best_momentum_change": -3.32
+}

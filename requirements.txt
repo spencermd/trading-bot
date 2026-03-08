@@ -1,0 +1,5 @@
+py-clob-client
+pandas
+numpy
+websocket-client
+python-dotenv

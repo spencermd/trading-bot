@@ -1,0 +1,35 @@
+{
+  "scan_time": "2026-03-08T01:06:55.544757",
+  "scan_number": 5,
+  "hot_coins_15plus": [
+    {
+      "symbol": "RESOLV-USD",
+      "last": 0.08755,
+      "open24h": 0.07298,
+      "change_24h": 19.96437380104138,
+      "vol_24h": "25360.2770258"
+    },
+    {
+      "symbol": "BANANA-USD",
+      "last": 4.942,
+      "open24h": 4.222,
+      "change_24h": 17.05352913311226,
+      "vol_24h": "2781.9090881"
+    },
+    {
+      "symbol": "RESOLV-USDT",
+      "last": 0.08492,
+      "open24h": 0.07309,
+      "change_24h": 16.18552469558078,
+      "vol_24h": "4599381.4933402"
+    },
+    {
+      "symbol": "RESOLV-TRY",
+      "last": 3.74,
+      "open24h": 3.22,
+      "change_24h": 16.149068322981368,
+      "vol_24h": "3952351.378182"
+    }
+  ],
+  "total_scanned": 932
+}

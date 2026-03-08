@@ -1,0 +1,52 @@
+[
+  {
+    "id": "peng",
+    "symbol": "PENGU",
+    "name": "Pudgy Penguins",
+    "strategy": {
+      "buy_trigger": -15,
+      "take_profit": 50,
+      "stop_loss": -10
+    }
+  },
+  {
+    "id": "popcat",
+    "symbol": "POPCAT",
+    "name": "Popcat",
+    "strategy": {
+      "buy_trigger": -15,
+      "take_profit": 50,
+      "stop_loss": -10
+    }
+  },
+  {
+    "id": "bonk",
+    "symbol": "BONK",
+    "name": "Bonk",
+    "strategy": {
+      "buy_trigger": -15,
+      "take_profit": 50,
+      "stop_loss": -10
+    }
+  },
+  {
+    "id": "goatse",
+    "symbol": "GOAT",
+    "name": "Goat",
+    "strategy": {
+      "buy_trigger": -15,
+      "take_profit": 50,
+      "stop_loss": -10
+    }
+  },
+  {
+    "id": "chill",
+    "symbol": "CHILL",
+    "name": "Chill",
+    "strategy": {
+      "buy_trigger": -15,
+      "take_profit": 50,
+      "stop_loss": -10
+    }
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-03-08T01:20:49.599333",
+  "top_gainer": {
+    "symbol": "HASH",
+    "name": "Provenance Blockchain",
+    "price": 0.01532664,
+    "change_24h": 13.74667,
+    "market_cap": 849317746,
+    "volume": 19357.15
+  },
+  "top_5_gainers": [
+    {
+      "symbol": "HASH",
+      "name": "Provenance Blockchain",
+      "price": 0.01532664,
+      "change_24h": 13.74667
+    },
+    {
+      "symbol": "KITE",
+      "name": "Kite",
+      "price": 0.279505,
+      "change_24h": 8.93465
+    },
+    {
+      "symbol": "OKB",
+      "name": "OKB",
+      "price": 102.48,
+      "change_24h": 7.85943
+    },
+    {
+      "symbol": "PI",
+      "name": "Pi Network",
+      "price": 0.228877,
+      "change_24h": 7.37479
+    },
+    {
+      "symbol": "MORPHO",
+      "name": "Morpho",
+      "price": 1.83,
+      "change_24h": 2.21787
+    }
+  ],
+  "all_gainers_count": 10
+}

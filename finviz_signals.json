@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-03-08T05:52:40.536807",
+  "screeners": [
+    {
+      "name": "Top Gainers",
+      "url": "https://finviz.com/screener.ashx?v=340&s=ta_topgainers"
+    },
+    {
+      "name": "Top Losers",
+      "url": "https://finviz.com/screener.ashx?v=340&s=ta_toplosers"
+    },
+    {
+      "name": "New High",
+      "url": "https://finviz.com/screener.ashx?v=340&s=ta_newhigh"
+    },
+    {
+      "name": "New Low",
+      "url": "https://finviz.com/screener.ashx?v=340&s=ta_newlow"
+    },
+    {
+      "name": "Overbought",
+      "url": "https://finviz.com/screener.ashx?v=210&s=ta_overbought"
+    },
+    {
+      "name": "Oversold",
+      "url": "https://finviz.com/screener.ashx?v=210&s=ta_oversold"
+    },
+    {
+      "name": "Unusual Volume",
+      "url": "https://finviz.com/screener.ashx?v=320&s=ta_unusualvolume"
+    },
+    {
+      "name": "Insider Buying",
+      "url": "https://finviz.com/screener.ashx?v=340&s=it_latestbuys"
+    }
+  ]
+}

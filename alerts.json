@@ -1,0 +1,74 @@
+[
+  {
+    "type": "ALGO_BUY",
+    "symbol": "SOL",
+    "price": 83.055,
+    "rsi": 50.10825158319213,
+    "action": "BUY",
+    "timestamp": "2026-03-08T01:57:57.079905"
+  },
+  {
+    "type": "ALGO_BUY",
+    "symbol": "DOGE",
+    "price": 0.0899,
+    "rsi": 47.73012723654996,
+    "action": "BUY",
+    "timestamp": "2026-03-08T01:57:57.079908"
+  },
+  {
+    "type": "ELITE_SIGNAL",
+    "symbol": "PEPE",
+    "price": 3.24888530424439e-06,
+    "action": "VOLUME_ALERT",
+    "score": 2.3968575117682547,
+    "timestamp": "2026-03-08T01:57:57.079947"
+  },
+  {
+    "type": "ELITE_SIGNAL",
+    "symbol": "OKB",
+    "price": 102.99,
+    "action": "HOT_GAINER",
+    "score": 2,
+    "timestamp": "2026-03-08T01:57:57.079950"
+  },
+  {
+    "type": "ELITE_SIGNAL",
+    "symbol": "PI",
+    "price": 0.228828,
+    "action": "HOT_GAINER",
+    "score": 2,
+    "timestamp": "2026-03-08T01:57:57.079951"
+  },
+  {
+    "type": "ELITE_SIGNAL",
+    "symbol": "M",
+    "price": 1.53,
+    "action": "HOT_GAINER",
+    "score": 2,
+    "timestamp": "2026-03-08T01:57:57.079952"
+  },
+  {
+    "type": "ELITE_SIGNAL",
+    "symbol": "SKY",
+    "price": 0.071728,
+    "action": "HOT_GAINER",
+    "score": 2,
+    "timestamp": "2026-03-08T01:57:57.079952"
+  },
+  {
+    "type": "ELITE_SIGNAL",
+    "symbol": "TRX",
+    "price": 0.286708,
+    "action": "HOT_GAINER",
+    "score": 2,
+    "timestamp": "2026-03-08T01:57:57.079953"
+  },
+  {
+    "type": "ELITE_SIGNAL",
+    "symbol": "USDT",
+    "price": 0.999966,
+    "action": "VOLUME_ALERT",
+    "score": 1.1405363232557602,
+    "timestamp": "2026-03-08T01:57:57.079954"
+  }
+]

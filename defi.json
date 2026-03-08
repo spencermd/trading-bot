@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-03-08T00:55:59Z",
+  "tokens": {
+    "AAVE": {
+      "price_usd": 108.75,
+      "change_24h": -1.99
+    },
+    "UNI": {
+      "price_usd": 3.77,
+      "change_24h": -2.14
+    },
+    "COMP": {
+      "price_usd": 17.21,
+      "change_24h": -1.15
+    },
+    "MKR": {
+      "price_usd": 1691.10,
+      "change_24h": 0.39
+    }
+  },
+  "summary": "Market mostly flat; MKR still the only green (+0.39%),UNI & AAVE slightly worse, COMP slightly better"
+}

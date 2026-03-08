@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-03-07T22:48:30.260306",
+  "watchlist": [
+    {
+      "symbol": "POPCAT",
+      "price": 0.0492967,
+      "change": -3.4845171681689666
+    },
+    {
+      "symbol": "BONK",
+      "price": 5.71e-06,
+      "change": -2.431337209648674
+    },
+    {
+      "symbol": "WIF",
+      "price": 0,
+      "change": 0
+    },
+    {
+      "symbol": "GOAT",
+      "price": 5.0069e-14,
+      "change": null
+    },
+    {
+      "symbol": "CHILL",
+      "price": 0,
+      "change": 0
+    },
+    {
+      "symbol": "MEOW",
+      "price": 5.49e-06,
+      "change": -1.3440035458252997
+    },
+    {
+      "symbol": "BODEN",
+      "price": 0,
+      "change": 0
+    },
+    {
+      "symbol": "DRIFT",
+      "price": 0,
+      "change": 0
+    }
+  ]
+}
